@@ -1,1 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>Explore Japan!<head>
+<header>Explore Japan and Its Prefectures!<header>
+	<body>
+	<p>If you would like to learn about different places in Japan and what you can do their if you decide to visit, click a prefecture on the map and it will take you to some of its key locations that you should visist!<p>
+	
+<table>
+	<tr>
+		<td>Hokkaido</td>
+		<td>Sapporo stuff</td>
+	</tr>
+	<tr>
+		<td>Akita</td>
+		<td>Inu dog/Oni ogre</td>
+	</tr>
+	<tr>
+		<td>Saitama</td>
+		<td>Nice mall and near Tokyo</td>
+	</tr>
+	<tr>
+		<td>Nagano</td>
+		<td>Out of the way, but also close to other places</td>
+	</tr>
+	<tr>
+		<td>Tottori</td>
+		<td>Sandy beaches + Pretty place</td>
+	</tr>
+	<tr>
+		<td>Fukuoka</td>
+		<td>Dutch Port</td>
+	</tr>
+	<tr>
+		<td>Nagasaki</td>
+		<td>Interesting place and region/history</td>
+	</tr>
+</table>
 
+<!--add <nav> stuff as well as links to JP resources-->
+<!--Hyperlink to country pages from map on locations-->
+<!--Note: a need for proper images is needed. Create/find temporary placeholders to accomidate while building more systems to place.-->
+<!--Build CSS to an easy on eyes format. Maybe Chubits or Helvitica font? Furthur research and experminetation needed.-->
